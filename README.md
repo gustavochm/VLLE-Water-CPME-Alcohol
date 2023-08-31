@@ -1,6 +1,6 @@
 # Supplementary Information: *insert name of paper here*
 
-This repository is part of the Supplementary Information of the article INSERT NAME OF PAPER HERE by Andrés Mejía, Marcela Cartes, Gustavo Chaparro and Gerard Alonso.
+This repository is part of the Supplementary Information of the article *Description of isobaric vapor-liquid-liquid equilibrium for water + cyclopentyl methyl ether + alcohol (ethanol or propan-1-ol) ternary mixtures* by Andrés Mejía, Marcela Cartes, Gustavo Chaparro and Erich A. Müller.
 
 This repository include examples of how to perform stability analysis and phase equilibria calculations for three-phase equilibria of the ternary mixture of Water (1) + CPME (2) + Ethanol (3) using SAFT-VR-Mie Equation of State.
 
