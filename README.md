@@ -1,4 +1,4 @@
-# Supplementary Information: *insert name of paper here*
+# Supplementary Information: *Assessment and modeling of the isobaric vapor-liquid-liquid equilibrium for water + cyclopentyl methyl ether + alcohol (ethanol or propan-1-ol) ternary mixtures*
 
 This repository is part of the Supplementary Information of the article *Assessment and modeling of the isobaric vapor-liquid-liquid equilibrium for water + cyclopentyl methyl ether + alcohol (ethanol or propan-1-ol) ternary mixtures* by Andrés Mejía, Marcela Cartes, Gustavo Chaparro and Erich A. Müller. (Submmited to ACS Sustainable Chemistry & Engineering)
 
